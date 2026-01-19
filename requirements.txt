@@ -1,0 +1,7 @@
+streamlit==1.41.1
+feedparser==6.0.11
+pandas==2.2.3
+yfinance==0.2.52
+plotly==5.24.1
+python-dateutil==2.9.0.post0
+pytz==2025.1
